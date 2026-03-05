@@ -1,6 +1,6 @@
 module PaqueteJulia
 
-export hola, adios, suma, resta
+export hola, adios, suma, resta, multiplicacion
 
 include("variables_derivadas.jl")
 

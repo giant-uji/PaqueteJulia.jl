@@ -1,6 +1,7 @@
 module PaqueteJulia
 
-export hola
+export hola, adios
+
 include("variables_derivadas.jl")
 
 end

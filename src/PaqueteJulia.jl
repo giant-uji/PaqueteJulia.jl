@@ -1,5 +1,6 @@
 module PaqueteJulia
 
-# Write your package code here.
+export hola
+include("variables_derivadas.jl")
 
 end
